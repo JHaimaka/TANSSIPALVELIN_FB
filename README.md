@@ -1,2 +1,3 @@
-## Tanssipalvelin -full stack projekti
-React – Node.js – MongoDB
+## Tanssipalvelin - full stack -projekti
+Frontend: React 
+Backend: Node.js & MongoDB
